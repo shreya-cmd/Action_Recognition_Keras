@@ -24,27 +24,22 @@ This repository is trained on a sequence of images and the dataset is available 
 ## Folder Structure
 After extracting frames folder structure is as follows:
 
-data_frames
-
-  bend
-  
-    daria_bend
-    
-      bend_daria_bend_1.jpg
-      bend_daria_bend_2.jpg
-        .....
+    data_frames
+      bend
+        daria_bend
+          bend_daria_bend_1.jpg
+          bend_daria_bend_2.jpg
+            .....
         
-    denis_bend
+        denis_bend
     
-      bend_denis_bend_1.jpg
-      bend_denis_bend_1.jpg
-      .......
+          bend_denis_bend_1.jpg
+          bend_denis_bend_1.jpg
+            .......
       
-  run
-  
-    daria_run
-    
-      run_daria_run_1.jpg
-      run_daria_run_2.jpg
-      .........
-  ...........      
+      run
+        daria_run
+          run_daria_run_1.jpg
+          run_daria_run_2.jpg
+            .........
+      
